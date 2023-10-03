@@ -1,6 +1,5 @@
 package KPractice.Day3.OOPs.Inheritance
 
-
 // overide ka use
 // jis properties or method ko override krna hai ,uske aage 'open' eyword
 // jaha kr rhe hai waha ,'oveeride' keyword laga denge

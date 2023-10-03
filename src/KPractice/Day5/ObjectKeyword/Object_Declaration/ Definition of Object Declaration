@@ -1,0 +1,9 @@
+
+
+Object Declaration
+...................
+
+.Class and its Single Object is created at once.
+.No constructors are allowed (init block is allowed).
+.Singleton Pattern.  (means. kisi bhi class/object of single object hi bn payega ,multiple not allowed)-: "in Kotlin"
+.You can inherit class/interface.

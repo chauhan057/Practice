@@ -15,6 +15,5 @@ public class TriangleHalf {
             }
             System.out.println();
         }
-
     }
 }

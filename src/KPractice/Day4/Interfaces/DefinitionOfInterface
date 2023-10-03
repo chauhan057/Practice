@@ -1,0 +1,13 @@
+
+
+//...................Interface........................
+.Group objects bases on what they can do rather than what they are
+.To use polymorphism in unreleased set of classes (i.e. classes which do not belong to same inheritance hierarchy.)
+
+//...........................common terminology...........................
+.Interface is a contract which states that whoever implements that interface has to provide the implementation for the methods
+
+//more about interface
+.Interface are meant for behaviours ,Clases which exhibits that behaviour implements that interface.
+.Interface can have both abstract and concerete methods.
+interface ca  implement other interfaces and one class can implement many interface but classes can have only one superclasses.

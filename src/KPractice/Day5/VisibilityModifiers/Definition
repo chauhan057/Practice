@@ -1,0 +1,14 @@
+
+
+....................All about Access Modifiers in Kotlin.............................................
+
+    Modifiers           ||          Top Level Decelaration          ||          Class Members
+   ...........                      ......................                      .............
+
+    Public              ||          EveryWhere                      ||          EveryWhere
+
+    Internal            ||          Within a Module                 ||          Within a Module
+
+    Private             ||          With in file                    ||          With in class
+
+    Protected           ||          N/A                             ||          Subclasses only
