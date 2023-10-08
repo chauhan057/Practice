@@ -12,9 +12,26 @@ object A{
     }
     val num: Int=10
 }
-object B{
+object B:Aaditya(){
     val p:Int=20
+
+
     fun test(){
         println( "I am the Object of B")
+        super.methodOne()
+    }
+}
+open class Aaditya{
+    init {
+        println("Aaditya's init block...")
+    }
+    open fun methodOne()
+    {
+        println("Aaditya's method...")
+    }
+    companion object{
+        init {
+
+        }
     }
 }
