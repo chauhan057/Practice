@@ -11,6 +11,8 @@ fun main() {
     println(person.age) //0
     println(person.name) // " "
 
+
+
     var per2 = Person2("vishal",23)  // Secondary constructor object
     println(per2.age1)  // 23
     println(per2.name1)  // vishal
