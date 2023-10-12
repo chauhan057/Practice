@@ -1,8 +1,9 @@
-package KPractice.Day6_0;
-
-import java.util.Objects;
+package KPractice.Day6_0.DataClass;
 
 // model class = data class(in kotlin)
+//this is only for referece that how to same as model class in java, but in kotlin we use data class
+import java.util.Objects;
+
 public class Address {
     private String street =null;
     private String city =null;
