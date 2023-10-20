@@ -30,12 +30,7 @@ public class CamelCaseProblem {
         for (int i = 0; i <arr.length ; i++) {
             // res=res+arr[i].substring(0,1).toUpperCase()+arr[i].substring(1)+" ";
             res=res+(""+arr[i].charAt(0)).toUpperCase()+arr[i].substring(1)+" ";
-
         }
         System.out.println(res.strip());
-
     }
-
-
-
 }
