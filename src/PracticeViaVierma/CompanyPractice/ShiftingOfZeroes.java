@@ -39,6 +39,7 @@ public class ShiftingOfZeroes {
             }
         }
         for (int i = 0; i < al1.size(); i++) {
+//            System.out.println(al1.size());
             al0.add(al1.get(i));
         }
         System.out.println(al0);

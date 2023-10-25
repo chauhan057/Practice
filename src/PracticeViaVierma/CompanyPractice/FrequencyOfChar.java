@@ -13,7 +13,9 @@ public class FrequencyOfChar {
         for (String c :arr) {
             if (!map.containsKey(c))
             {map.put(c,1);}
-            else {map.put(c,map.get(c)+1);}
+            else {
+                map.put(c,map.get(c)+1);
+            }
         }
         System.out.println(map);
     }
