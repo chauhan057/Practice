@@ -20,6 +20,7 @@ import java.util.Arrays;
             j++;
         }
 
+        System.out.println(a);
         System.out.println(Arrays.toString(a));
     }
 }

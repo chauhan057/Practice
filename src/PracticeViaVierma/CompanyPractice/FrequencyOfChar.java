@@ -18,5 +18,6 @@ public class FrequencyOfChar {
             }
         }
         System.out.println(map);
+
     }
 }
