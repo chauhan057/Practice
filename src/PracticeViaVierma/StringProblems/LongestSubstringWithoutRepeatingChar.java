@@ -1,7 +1,6 @@
-package KPractice.StringProblems;
+package PracticeViaVierma.StringProblems;
 
 
-import java.util.Arrays;
 import java.util.HashSet;
 import java.util.Set;
 

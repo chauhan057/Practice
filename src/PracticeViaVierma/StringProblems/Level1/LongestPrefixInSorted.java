@@ -1,6 +1,5 @@
-package KPractice.StringProblems.Level1;
+package PracticeViaVierma.StringProblems.Level1;
 
-import java.lang.reflect.Array;
 import java.util.Arrays;
 
 public class LongestPrefixInSorted {

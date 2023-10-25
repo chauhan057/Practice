@@ -1,4 +1,4 @@
-package KPractice.StringProblems.Level1;
+package PracticeViaVierma.StringProblems.Level1;
 
 public class ReverseString {
     public static void main(String[] args) {
